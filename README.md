@@ -17,4 +17,4 @@
 
 ## Запуск
 ```bash
-python movie_library.py
+python main.py
